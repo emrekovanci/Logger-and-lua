@@ -81,6 +81,7 @@ int main()
 	    PLOG(plog::error) << errorMsg;
     }
 
+	
     lua_close(L);
     return 0;
 }
