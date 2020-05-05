@@ -1,0 +1,1 @@
+﻿2020-05-05 10:18:15.537 INFO  [27852] [main@71] PLAYER INFO... Title: Video Game Developer, Name: Emre, Family: Kovanci, Level: 25
