@@ -1,6 +1,6 @@
 players = {}
 players[0] = { Title = "Video Game Developer", Name = "Emre", Family = "Kovanci", Level = 25 }
-players[1] = { Title = "Cyber", Name = "Dilara", Family = "Bozkurt", Level = 24 }
+players[1] = { Title = "Ninja", Name = "Kitty", Family = "Kovanci", Level = 3 }
 
 -- 
 function AddStuff(a, b)
